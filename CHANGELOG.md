@@ -13,6 +13,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+## 0.11.1 - 2023-02-10
+
+### Added
+- Corrected misspelling in the error code returned (#277).
+
 ## 0.11.0 - 2022-12-31
 
 ### Added
